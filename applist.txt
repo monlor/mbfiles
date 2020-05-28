@@ -26,7 +26,7 @@ smartdns|DNS加速工具，从多个上游DNS服务器查询，避免DS污染|�
 ssserver|快速搭建ss服务端程序||0.0.2|SSServer|linux_arm,linux_x86_64
 tinyproxy|轻量级的Http代理工具||0.0.2|TinyProxy|linux_arm,linux_mips,linux_x86_64
 transmission|一款BT下载神器||0.0.3|Transmission|linux_arm,linux_mips,linux_x86_64
-ttyd|网页ssh工具，可在网页上执行 shell||0.0.1|ttyd|linux_arm,linux_mips,linux_x86_64
+ttyd|网页ssh工具，可在网页上执行 shell||0.0.1|ttyd|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 verysync|基于p2p的文件同步工具，局域网同步速度快|更新程序版本|0.0.5|VerySync|linux_arm,linux_mips,linux_x86_64
 vsftpd|快速搭建Ftp服务器，局域网文件共享|修复状态显示bug|0.0.8|VsFtpd|linux_arm,linux_mips,linux_x86_64
 webd|一款只有40k大小的mini个人网盘||0.0.2|WebD|linux_arm,linux_mips,linux_x86_64,darwin_linux_x86_64
