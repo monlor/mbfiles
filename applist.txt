@@ -16,12 +16,12 @@ kms|快速搭建Windows、Office激活服务器|Support for Windows 10 1809, Win
 kodexplorer|可道云，在线文档管理器，需要entware环境|修复unzip命令缺失|0.0.4|KodExplorer|linux_arm,linux_mips,linux_x86_64
 koolproxy|简单，快速屏蔽网页或视频广告，TG：https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg|修复bug|1.5.8|KoolProxy|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 miwifi|小米路由器系统管理，修改samba禁用系统更新等|现在修复小米路由器远程访问会自动开放8098端口|0.0.4|MIWIFI|linux_arm,linux_mips
-mixbox|一款支持多平台，多架构的Shell工具箱|修复插件列表为空的bug|0.1.9.11|MIXBOX|linux_aarch64,linux_arm,linux_mips,linux_x86_64
+mixbox|一款支持多平台，多架构的Shell工具箱|新增下载源ghcdn|0.1.9.12|MIXBOX|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 ngrok|轻量级的内网穿透工具||0.0.2|Ngrok|linux_arm,linux_mips
 npc|一款轻量级、高性能、功能强大的内网穿透代理服务器||0.0.9|NPC|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 pptpd|简单但并不安全的VPN服务器||0.0.2|PPTPD|linux_arm,linux_mips,linux_x86_64
 qiandao|koolshare merlin 自动签到程序|签到程序更新到版本2.1，支持更多网站的签到，并且支持mipsel设备|0.0.6|QianDao|linux_aarch64,linux_arm,linux_mips,linux_x86_64
-shadowsocks|最好的翻墙工具，没有之一，还可以加速国内外游戏|更新v2ray配置生成脚本|0.1.10|ShadowSocks|linux_aarch64,linux_arm,linux_mips,linux_x86_64
+shadowsocks|最好的翻墙工具，没有之一，还可以加速国内外游戏|现在更新v2ray会测试二进制程序，防止软件源失效更新到错误的程序|0.1.11|ShadowSocks|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 smartdns|DNS加速工具，从多个上游DNS服务器查询，避免DS污染|更新arm版smartdns程序版本|0.0.5|SmartDNS|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 ssserver|快速搭建ss服务端程序||0.0.2|SSServer|linux_aarch64,linux_arm,linux_x86_64
 tinyproxy|轻量级的Http代理工具||0.0.2|TinyProxy|linux_arm,linux_mips,linux_x86_64
