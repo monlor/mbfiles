@@ -1,4 +1,4 @@
-aliddns|动态将你的路由器IP绑定到域名|支持ipv6|0.0.3|AliDDNS|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
+aliddns|动态将你的路由器IP绑定到域名|支持ipv6，修复bug|0.0.4|AliDDNS|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
 aria2|Linux下一款高效的下载工具|使用尽可能多的trackers以便于加速|0.1.0|Aria2|linux_arm,linux_mips,linux_x86_64
 baidupcs|第三方百度网盘web客户端，基于Go语言|二进制更新至3.7.0|0.0.6|BaiduPCS|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
 dms|dms是一款DLNA数字媒体服务器||0.0.2|DMS|linux_aarch64,linux_arm,linux_mips,linux_x86_64
