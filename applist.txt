@@ -3,19 +3,19 @@ aria2|Linux下一款高效的下载工具|使用尽可能多的trackers以便于
 baidupcs|第三方百度网盘web客户端，基于Go语言|二进制更新至3.7.0|0.0.6|BaiduPCS|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
 dms|dms是一款DLNA数字媒体服务器||0.0.2|DMS|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 dropbear|移植小米的SSH功能到工具箱|移除dss证书，支持一些新的路由型号|0.0.3|DropBear|linux_aarch64,linux_arm,linux_mips
-easyexplorer|一款跨设备的P2P文件同步工具|修复程序无法运行的bug，更新二进制版本为最新版|0.0.5|EasyExplorer|linux_aarch64,linux_arm,linux_x86_64,darwin_x86_64
-entware|一款开源且强大的包管理工具，许多功能都通过它来实现|修复了ONMP无法使用的问题|0.0.4|Entware|linux_arm,linux_mips,linux_x86_64
-fastdick|迅雷快鸟，宽带提速工具|加入判断没有vim则使用vi|0.0.3|FastDick|linux_arm,linux_mips,linux_x86_64,darwin_x86_64
+easyexplorer|一款跨设备的P2P文件同步工具|修复程序无法运行的bug，更新二进制版本为最新版|0.0.5|EasyExplorer|linux_aarch64,linux_aarch64,linux_arm,linux_x86_64,darwin_x86_64
+entware|一款开源且强大的包管理工具，许多功能都通过它来实现|修复了ONMP无法使用的问题|0.0.4|Entware|linux_aarch64,linux_arm,linux_mips,linux_x86_64
+fastdick|迅雷快鸟，宽带提速工具|加入判断没有vim则使用vi|0.0.3|FastDick|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
 filebrowser|Web文件浏览器|更新arm二进制至2.0.3|0.0.3|FileBrowser|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
-firewall|防火墙端口开放插件|支持添加多种端口号类型|0.0.2|FireWall|linux_arm,linux_mips,linux_x86_64
+firewall|防火墙端口开放插件|支持添加多种端口号类型|0.0.2|FireWall|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 frpc|内网穿透工具，相对于ngrok资源占用较多|修复自定义域名配置错误|0.0.5|Frpc|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
 frps|内网穿透工具Frp服务端|frp程序更新到0.31.2|1.1.4|Frps|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
-httpfile|搭建简单的web文件浏览页面|脚本逻辑错误|0.0.3|HttpFile|linux_arm,linux_mips,linux_x86_64
+httpfile|搭建简单的web文件浏览页面|脚本逻辑错误|0.0.3|HttpFile|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 jetbrains|快速搭建JetBrains激活服务器||0.0.2|JetBrains|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
 kms|快速搭建Windows、Office激活服务器|Support for Windows 10 1809, Windows Server 2019 and Office 2019 built-in|0.0.2|Kms|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
-kodexplorer|可道云，在线文档管理器，需要entware环境|修复unzip命令缺失|0.0.4|KodExplorer|linux_arm,linux_mips,linux_x86_64
+kodexplorer|可道云，在线文档管理器，需要entware环境|修复unzip命令缺失|0.0.4|KodExplorer|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 koolproxy|简单，快速屏蔽网页或视频广告，TG：https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg|修复bug|1.5.8|KoolProxy|linux_aarch64,linux_arm,linux_mips,linux_x86_64
-miwifi|小米路由器系统管理，修改samba禁用系统更新等|现在修复小米路由器远程访问会自动开放8098端口|0.0.4|MIWIFI|linux_arm,linux_mips
+miwifi|小米路由器系统管理，修改samba禁用系统更新等|现在修复小米路由器远程访问会自动开放8098端口|0.0.4|MIWIFI|linux_aarch64,linux_arm,linux_mips
 mixbox|一款支持多平台，多架构的Shell工具箱|新增下载源ghcdn|0.1.9.13|MIXBOX|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 ngrok|轻量级的内网穿透工具||0.0.2|Ngrok|linux_arm,linux_mips
 npc|一款轻量级、高性能、功能强大的内网穿透代理服务器||0.0.9|NPC|linux_aarch64,linux_arm,linux_mips,linux_x86_64
@@ -25,10 +25,10 @@ shadowsocks|最好的翻墙工具，没有之一，还可以加速国内外游�
 smartdns|DNS加速工具，从多个上游DNS服务器查询，避免DS污染|更新arm版smartdns程序版本|0.0.5|SmartDNS|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 ssserver|快速搭建ss服务端程序||0.0.2|SSServer|linux_aarch64,linux_arm,linux_x86_64
 tinyproxy|轻量级的Http代理工具||0.0.2|TinyProxy|linux_arm,linux_mips,linux_x86_64
-transmission|一款BT下载神器||0.0.3|Transmission|linux_arm,linux_mips,linux_x86_64
+transmission|一款BT下载神器||0.0.3|Transmission|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 ttyd|网页ssh工具，可在网页上执行 shell||0.0.1|ttyd|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 verysync|基于p2p的文件同步工具，局域网同步速度快|更新程序版本|0.0.5|VerySync|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 vsftpd|快速搭建Ftp服务器，局域网文件共享|修复状态显示bug|0.0.8|VsFtpd|linux_arm,linux_mips,linux_x86_64
 webd|一款只有40k大小的mini个人网盘||0.0.2|WebD|linux_arm,linux_mips,linux_x86_64,darwin_linux_x86_64
 webshell|网页ssh工具，可在网页上管理路由器||0.0.3|WebShell|linux_aarch64,linux_arm,linux_mips,linux_x86_64
-zerotier|一款非常简单易用的内网穿透工具||0.0.2|ZeroTier|linux_arm,linux_mips,linux_x86_64
+zerotier|一款非常简单易用的内网穿透工具||0.0.2|ZeroTier|linux_aarch64,linux_arm,linux_mips,linux_x86_64
