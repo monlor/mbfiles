@@ -14,7 +14,7 @@ httpfile|搭建简单的web文件浏览页面|脚本逻辑错误|0.0.3|HttpFile|
 jetbrains|快速搭建JetBrains激活服务器||0.0.2|JetBrains|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
 kms|快速搭建Windows、Office激活服务器|Support for Windows 10 1809, Windows Server 2019 and Office 2019 built-in|0.0.2|Kms|linux_aarch64,linux_arm,linux_mips,linux_x86_64,darwin_x86_64
 kodexplorer|可道云，在线文档管理器，需要entware环境|修复unzip命令缺失|0.0.4|KodExplorer|linux_aarch64,linux_arm,linux_mips,linux_x86_64
-koolproxy|简单，快速屏蔽网页或视频广告，TG：https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg|更新主程序，更新规则地址|1.6.0|KoolProxy|linux_aarch64,linux_arm,linux_mips,linux_x86_64
+koolproxy|简单，快速屏蔽网页或视频广告，TG：https://t.me/joinchat/AAAAAD-tO7GPvfOU131_vg|更新主程序，更新规则地址，修复bug|1.6.1|KoolProxy|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 miwifi|小米路由器系统管理，修改samba禁用系统更新等|现在修复小米路由器远程访问会自动开放8098端口|0.0.4|MIWIFI|linux_aarch64,linux_arm,linux_mips
 mixbox|一款支持多平台，多架构的Shell工具箱|新增下载源ghcdn|0.1.9.13|MIXBOX|linux_aarch64,linux_arm,linux_mips,linux_x86_64
 ngrok|轻量级的内网穿透工具||0.0.2|Ngrok|linux_arm,linux_mips
